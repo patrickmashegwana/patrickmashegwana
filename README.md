@@ -1,18 +1,29 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39FF14&width=950&lines=Welcome+to+my+Profile!+I'm+Dr.+Abhisakh+Sarma+👋;Experimental+Physicist+→+AI+%26+Data+Science+Developer;Building+Data-Driven+AI+Solutions+That+Make+an+Impact!&center=true&vCenter=true&loop=true&background=000000)](https://gi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39FF14&width=950&lines=Welcome+to+my+Profile!+I'm.+Patrick+Mashegwana+👋;AI Business Consultant +AI Engineer+→+AI;Building+Data-Driven+AI+Solutions+That+Make+businesses+ succeed!&center=true&vCenter=true&loop=true&background=000000)](https://gi)
 
 ---
 
 ## 💡 About Me  
+# Hi 👋 I'm Patrick — AI Business Consultant & AI Engineer
 
-I’m **Dr. Abhisakh Sarma**, an experimental physicist transitioning into **AI and data-driven development**.  
-I love exploring the intersection of **science, data, and intelligent systems** — transforming complex data into insights and impactful tools.  
+I help businesses turn AI ideas into working products: from problem discovery and prompt engineering to model evaluation and deployment. 
+I combine product & strategy thinking with hands-on engineering to deliver measurable results.
 
 - 🔭 Currently building **AI-powered web applications** and **data analysis platforms**.  
 - 🌱 Expanding skills in **deep learning**, **data pipelines**, and **cloud-based ML deployment**.  
 - 👯 Open to collaborating on **AI**, **data visualization**, and **open-source projects**.  
 - 💬 Ask me about **Python**, **machine learning**, **SQL**, **data analysis**, or **web app development**.  
-- 🕹️ *Fun fact:* Turned **science experiments into code experiments**.  
+- 🕹️ *Fun fact:*  **i love a good challenege**.  
+
+---
+## What I do
+- Advise teams on translating business problems into AI solutions
+- Build, test, and deploy ML/LLM prototypes and production services
+- Help set up MLOps practices and metrics for model performance and cost
+
+## Get in touch
+- Email: patrickmashegwana@gmail.com  
+- LinkedIn: <your-linkedin-url> (add if you want)
 
 ---
 
@@ -113,11 +124,8 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 
 ---
 
-
-
 <!-- Movie-Project-SQL-HTML-API -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=90EE90&width=1000&lines=🍿🎥+Movie+Project+SQL+HTML+API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Movie-Project-SQL-HTML-API)
-
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
@@ -136,52 +144,6 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </table>
 
 ---
-
-
-<!-- Best_Buy_2 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CED1&width=1000&lines=🛍️✨+Best+Buy+2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Best_Buy_2)
-
-
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
-  <tr>
-    <!-- Best_Buy_2 -->
-    <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>🛍️✨ <a href="https://github.com/abhisakh/Best_Buy_2" style="color:#00CED1; text-decoration:none;">Best_Buy_2</a></h3>
-      <p>This Python project simulates a store management system that allows you to browse products, manage stock, and place orders — all through a colorful, interactive command-line interface.This project demonstrates clean **Object-Oriented Programming (OOP)** principles, strong **error handling**, and an intuitive **user experience** in Python.</p>
-      <p><b>Tech:</b> Python · OOP · SQLite</p>
-    </td>
-    <td style="padding:15px; text-align:center; width:50%;">
-      <img src="https://github.com/user-attachments/assets/96012db0-0b05-4ba9-992e-2a7e650f7da8" 
-           alt="Best_Buy_2" 
-           style="width:1990px; height:auto; border-radius:12px; object-fit:cover;">
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Expense Tracker -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=💰+Expense+Tracker&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Expense_Tracker)
-
-
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
-  <tr>
-    <!-- Expense Tracker -->
-    <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>💰 <a href="https://github.com/abhisakh/Expense_tracker" style="color:#00CED1; text-decoration:none;">Expense Tracker</a></h3>
-      <p>Track and visualize personal spending patterns through Python-based analytics.</p>
-      <p><b>Tech:</b> Python · Pandas · Matplotlib · SQLite</p>
-    </td>
-    <td style="padding:15px; text-align:center; width:50%;">
-      <img src="https://github.com/user-attachments/assets/d6af8a94-87d1-4291-8ba8-0ed9a712a8fe" 
-           alt="Expense Tracker" 
-           style="width:390px; height:auto; border-radius:12px; object-fit:cover;">
-    </td>
-  </tr>
-</table>
-
----
-
 
 <!-- SKY SQL 2 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=☁️+✈️+SKY+SQL+2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/SKY_SQL_2)
@@ -240,27 +202,10 @@ I love exploring the intersection of **science, data, and intelligent systems** 
 </p>
 
 ---
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="mailto:abhisakh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/dr-abhisakh-sarma">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://orcid.org/0000-0002-0785-8902">
-    <img src="https://img.shields.io/badge/ORCID-00A0E3?style=for-the-badge&logo=orcid&logoColor=white">
-  </a>
-  <a href="https://github.com/abhisakh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://advance-portfolio-abhisakh-sarma-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
-
+ 
+## Get in touch
+- Email: patrickmashegwana@gmail.com  
+- LinkedIn: <https://www.linkedin.com/in/patrick-mashegwana-002b4893/> 
 
 ---
 
