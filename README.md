@@ -188,28 +188,6 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisakh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisakh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisakh&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisakh&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhisakh?label=Followers&style=flat-square&color=39FF14" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abhisakh?style=flat-square&color=FF4B4B" alt="Stars" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-👁️%20Dynamic-FF6F00?style=for-the-badge&logo=github" alt="Profile Views" />
-</p>
-
----
 
 
