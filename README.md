@@ -21,7 +21,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ## Get in touch
 - Email: patrickmashegwana@gmail.com  
-- LinkedIn: <your-linkedin-url> (add if you want)
+- LinkedIn: <https://www.linkedin.com/in/patrick-mashegwana-002b4893/> 
 
 ---
 
@@ -200,12 +200,6 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 </p>
 
 ---
- 
-## Get in touch
-- Email: patrickmashegwana@gmail.com  
-- LinkedIn: <https://www.linkedin.com/in/patrick-mashegwana-002b4893/> 
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhisakh&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -218,5 +212,4 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ---
 
-<p align="center"><i>“Science is organized knowledge; wisdom is organized life.” — Immanuel Kant</i></p>
 
