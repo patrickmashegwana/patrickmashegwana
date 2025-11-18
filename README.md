@@ -21,7 +21,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ## Get in touch
 - Email: patrickmashegwana@gmail.com  
-- LinkedIn: <https://www.linkedin.com/in/patrick-mashegwana-002b4893/> 
+- LinkedIn: https://www.linkedin.com/in/patrick-mashegwana/ 
 
 ---
 
@@ -71,29 +71,6 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
       <img src="https://github.com/user-attachments/assets/b6d6650d-c92e-42ba-aad4-358047b768d4" 
            alt="Fake Finder WebApp" 
            style="width:630px; height:auto; border-radius:12px; object-fit:cover;">
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Movie WebApp -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF4B4B&width=1000&lines=🎬+Movie+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/MovieWebApp-AI)
-
-
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
-  <tr>
-    <!-- Movie WebApp -->
-    <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>🎬 <a href="https://github.com/abhisakh/MovieWebApp-AI" style="color:#FF4B4B; text-decoration:none;">Movie WebApp (AI)</a></h3>
-      <h4> <a href="https://abhisakh.pythonanywhere.com/" style="color:#FF4B4B; text-decoration:none;">Link to the online webpage(click hear)</a></h4>
-      <p>MovieWebApp is a Flask-based web application that allows users to create personal movie collections. Users can add, update, and delete movies, fetch details from the OMDb API, and track     ratings. User can ask for suggestions from AI</p>
-      <p><b>Tech:</b> Python · Streamlit · TMDB API · Pandas</p>
-    </td>
-    <td style="padding:15px; text-align:center; width:50%;">
-      <img src="https://github.com/user-attachments/assets/4c560462-459a-45ac-b669-ff64e8f465ba" 
-           alt="Movie WebApp" 
-           style="width:1220px; height:auto; border-radius:12px; object-fit:cover;">
     </td>
   </tr>
 </table>
@@ -164,7 +141,6 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 </table>
 
 ---
-
 
 <!-- Snowman Meltdown -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=87CEFA&width=1000&lines=❄️+Snowman+Meltdown&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Snowman-Meltdown)
