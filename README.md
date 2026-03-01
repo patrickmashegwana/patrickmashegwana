@@ -11,7 +11,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 - 🌱 Expanding skills in **deep learning**, **data pipelines**, and **cloud-based ML deployment**.  
 - 👯 Open to collaborating on **AI**, **data visualization**, and **open-source projects**.  
 - 💬 Ask me about **Python**, **machine learning**, **SQL**, **data analysis**, or **web app development**.  
-- 🕹️ *Fun fact:*  **i love a good challenege**.  
+- 🕹️ *Fun fact:*  **i love a good challenge**.  
 
 ---
 ## What I do
@@ -31,10 +31,8 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ### 🧩 Tools & Platforms  
@@ -42,9 +40,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-00C4FF?logo=webstorm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 
@@ -121,7 +117,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ---
 
 <!-- SKY SQL 2 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=☁️+✈️+SKY+SQL+2&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/SKY_SQL_2)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7FFFD4&width=1000&lines=☁️+✈️+SKY+SQL+2&center=true&vCenter=true&loop=true&background=000000)]
 
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
