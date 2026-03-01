@@ -52,7 +52,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 <!-- 🧠 Fake Finder WebApp Banner -->
 <!-- Fake Finder WebApp -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&width=1000&lines=🧠+Fake+Finder+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Fake_Finder_Webapp-AI)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&width=1000&lines=🧠+Fake+Finder+WebApp+(AI)&center=true&vCenter=true&loop=true&background=000000)]
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
@@ -74,7 +74,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ---
 
 <!-- My-Zootopia API -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=87CEEB&width=1000&lines=🐾+My-Zootopia+API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/My-Zootopia-api)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=87CEEB&width=1000&lines=🐾+My-Zootopia+API&center=true&vCenter=true&loop=true&background=000000)]
 
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
@@ -96,7 +96,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ---
 
 <!-- Movie-Project-SQL-HTML-API -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=90EE90&width=1000&lines=🍿🎥+Movie+Project+SQL+HTML+API&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Movie-Project-SQL-HTML-API)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=90EE90&width=1000&lines=🍿🎥+Movie+Project+SQL+HTML+API&center=true&vCenter=true&loop=true&background=000000)]
 
 <table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
   <tr>
