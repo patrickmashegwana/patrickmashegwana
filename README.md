@@ -138,27 +138,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ---
 
-<!-- Snowman Meltdown -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=87CEFA&width=1000&lines=❄️+Snowman+Meltdown&center=true&vCenter=true&loop=true&background=000000)](https://github.com/abhisakh/Snowman-Meltdown)
 
-<table style="max-width: 900px; background:#1e1e1e; border-radius:15px; overflow:hidden; margin:20px auto; color:white;">
-  <tr>
-    <!-- Snowman Meltdown -->
-    <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>❄️ <a href="https://github.com/abhisakh/Snowman-Meltdown" style="color:#87CEFA; text-decoration:none;">Snowman Meltdown</a></h3>
-      <p>Creative Python simulation exploring melting dynamics — where physics meets fun coding.</p>
-      <p><b>Tech:</b> Python · Simulation · Visualization</p>
-    </td>
-    <td style="padding:15px; text-align:center; width:50%;">
-      <img src="https://github.com/user-attachments/assets/e3adb0d0-ccbe-4453-a630-15eeb2baf44b" 
-           alt="Snowman Meltdown" 
-           style="width:450px; height:auto; border-radius:12px; object-fit:cover;">
-    </td>
-  </tr>
-</table>
-
-
----
 
 
 
