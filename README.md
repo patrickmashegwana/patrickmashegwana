@@ -42,7 +42,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects : I have worked on these projects with classmates and contributed to some of the coding
 
 <!-- Projects Section -->
 
