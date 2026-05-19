@@ -56,7 +56,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
     <!-- Fake Finder WebApp -->
     <!-- 🧠 Fake Finder WebApp Banner -->
     <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>🧠 <a href="https://github.com/abhisakh/Fake_Finder_Webapp-AI" style="color:#39FF14; text-decoration:none;">Fake Finder WebApp (AI)</a></h3>
+      <h3>🧠 <a href="#" style="color:#39FF14; text-decoration:none;">Fake Finder WebApp (AI)</a></h3>
       <p>Fake Finder challenges players to distinguish true statements from AI-generated fake ones, based on Wikipedia articles using NLP.</p>
       <p><b>Tech:</b> Python · Flask · OpenAI API · Scikit-learn</p>
     </td>
