@@ -17,7 +17,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ## What I do
 - Advise teams on translating business problems into AI solutions
 - Build, test, and deploy ML/LLM prototypes and production services
-- Help set up MLOps practices and metrics for model performance and cost
+- Help set up Automations and Agentic AI Operating systems
 
 ## Get in touch
 - Email: patrickmashegwana@gmail.com  
@@ -42,7 +42,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ---
 
-## 🚀 Featured Projects : I have worked on these projects with classmates and contributed to some of the coding. Abhi was the lead developer.
+## 🚀 Featured Projects: I have worked on these projects with classmates and contributed to some of the coding. Abhi was the lead developer.
 
 <!-- Projects Section -->
 
