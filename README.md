@@ -16,7 +16,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ---
 ## What I do
 - Advise teams on translating business problems into AI solutions
-- Build, test, and deploy ML/LLM prototypes and production services
+- Build, test, and deploy ML/LLM prototypes, and production services
 - Help set up Automations and Agentic AI Operating systems
 
 ## Get in touch
