@@ -39,7 +39,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ---
 
 ## 🚀 Featured Projects: I have worked on these projects with classmates and contributed to some of the coding. Abhi was the lead developer.
