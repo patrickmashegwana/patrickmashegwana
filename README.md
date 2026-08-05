@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF8C00&width=950&lines=Welcome%20to%20my%20Profile!%20I%27m%20Patrick%20Mashegwana%20👋;AI%20Business%20Consultant%20%2F%20AI%20Engineer%20%E2%86%92%20AI;Building%20Data-Driven%20AI%20Solutions%20That%20Help%20Businesses%20Succeed!&center=true&vCenter=true&loop=true&background=000000)](https://github.com/patrickmashegwana)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF8C00&width=950&lines=Welcome%20to%20my%20Profile!%20I%27m%20Patrick%20Mashegwana%20👋;AI%20Business%20Consultant%20%2F%20AI%20Engineer%20%E2%86%92%20AI;Building%20AI%20Solutions%20That%20Help%20Businesses%20Succeed!&center=true&vCenter=true&loop=true&background=000000)](https://github.com/patrickmashegwana)
 ---
 
 ## 💡 About Me  
