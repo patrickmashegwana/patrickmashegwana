@@ -21,7 +21,8 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
 
 ## Get in touch
 - Email: patrickmashegwana@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/patrick-mashegwana/ 
+- LinkedIn: https://www.linkedin.com/in/patrick-mashegwana/
+- https://qonqa.io/about
 
 ---
 
