@@ -79,7 +79,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
   <tr>
     <!-- My-Zootopia-api -->
     <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>🐾 <a href="https://github.com/abhisakh/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
+      <h3>🐾 <a href="https://github.com/patrickmashegwana/My-Zootopia-api" style="color:#FF4B4B; text-decoration:none;">My-Zootopia API</a></h3>
       <p>This Python project fetches real-time data about animals from the API Ninjas Animals API and generates a clean, informative HTML webpage with the animal’s characteristics.</p>
       <p><b>Tech:</b> Python · Flask · REST API · JSON</p>
     </td>
@@ -100,7 +100,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
   <tr>
     <!-- Movie-Project-SQL-HTML-API -->
     <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>🎬 <a href="https://github.com/abhisakh/Movie-Project-SQL-HTML-API" style="color:#FF4B4B; text-decoration:none;">Movie-Project-SQL-HTML-API</a></h3>
+      <h3>🎬 <a href="https://github.com/patrickmashegwana/Movie-Project-SQL-HTML-API" style="color:#FF4B4B; text-decoration:none;">Movie-Project-SQL-HTML-API</a></h3>
       <p>A command-line and web-based movie database app built with Python, SQLite, and the OMDb API.</p>
       <p><b>Tech:</b> Python · Flask · REST API · SQLite</p>
     </td>
@@ -122,7 +122,7 @@ I combine product & strategy thinking with hands-on engineering to deliver measu
   <tr>
     <!-- SKY SQL 2 -->
     <td style="padding:25px; vertical-align: top; width:50%;">
-      <h3>☁️ <a href="https://github.com/abhisakh/SKY_SQL_2" style="color:#7FFFD4; text-decoration:none;">SKY SQL 2</a></h3>
+      <h3>☁️ <a href="https://github.com/patrickmashegwana/SKY_SQL_2" style="color:#7FFFD4; text-decoration:none;">SKY SQL 2</a></h3>
       <p>SQL data management project showcasing query optimization and structured data design.</p>
       <p><b>Tech:</b> SQL · MySQL · Data Modeling</p>
     </td>
